@@ -1,0 +1,7 @@
+﻿  Application.cpp
+C:\Users\Amir Bin\source\repos\OPENGL Project\OPENGL Project\Application.cpp(233,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amir Bin\source\repos\OPENGL Project\OPENGL Project\Application.cpp(263,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amir Bin\source\repos\OPENGL Project\OPENGL Project\Application.cpp(403,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amir Bin\source\repos\OPENGL Project\OPENGL Project\Application.cpp(421,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Amir Bin\source\repos\OPENGL Project\OPENGL Project\Application.cpp(467,22): warning C4018: '<': signed/unsigned mismatch
+  OPENGL Project.vcxproj -> C:\Users\Amir Bin\source\repos\OPENGL Project\Debug\OPENGL Project.exe
